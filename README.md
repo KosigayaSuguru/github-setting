@@ -17,6 +17,11 @@
     padding: 8px 8px 8px 8px;
     border-radius: 4px;
 }
+#readme h4 {
+    border-left: solid;
+    margin-left: 1em;
+    padding-left: 1em;
+}
 ```
 
 * 適用するURLを下記にする。
@@ -42,6 +47,11 @@ stylish の スタイルの管理 > import で↓を張り付ける。
     background-color: #9999AA;
     padding: 8px 8px 8px 8px;
     border-radius: 4px;
+}
+#readme h4 {
+    border-left: solid;
+    margin-left: 1em;
+    padding-left: 1em;
 }
 }
 ```
